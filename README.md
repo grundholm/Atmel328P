@@ -14,4 +14,4 @@ Processor: ATmega328P
 
 Programmer: AVR ISP / AVR ISP mkII
 
-"Blink Serial" is an extended version of the org. Arduino Blink to get Serial print.
+"Blink_with_Serial" is an extended version of the org. Arduino Blink to get Serial print.
