@@ -9,8 +9,9 @@ Arduino Bootloader is required, to upload sketch choose:
 Arduino IDE:
 
 Board: Arduino Nano
+
 Processor: ATmega328P
-Port: ...
+
 Programmer: AVR ISP / AVR ISP mkII
 
 "Blink Serial" is an extended version of the org. Arduino Blink to get Serial print.
